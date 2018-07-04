@@ -115,11 +115,13 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/lib/libBurstProcessJni.so:system/lib/libBurstProcessJni.so \
     vendor/nubia/nx551j/proprietary/lib/libIndependenceUtil.so:system/lib/libIndependenceUtil.so \
     vendor/nubia/nx551j/proprietary/lib/libNubiaImageAlgorithm.so:system/lib/libNubiaImageAlgorithm.so \
+    vendor/nubia/nx551j/proprietary/lib/libNubiaImageAlgorithmBSP.so:system/lib/libNubiaImageAlgorithmBSP.so \
     vendor/nubia/nx551j/proprietary/lib/libNubiaxmptoolkit.so:system/lib/libNubiaxmptoolkit.so \
     vendor/nubia/nx551j/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/nubia/nx551j/proprietary/lib/libPrettyWaterMark.so:system/lib/libPrettyWaterMark.so \
     vendor/nubia/nx551j/proprietary/lib/libalColorMono.so:system/lib/libalColorMono.so \
     vendor/nubia/nx551j/proprietary/lib/libalDU_Utility.so:system/lib/libalDU_Utility.so \
+    vendor/nubia/nx551j/proprietary/lib/libalParseOTP.so:system/lib/libalParseOTP.so \
     vendor/nubia/nx551j/proprietary/lib/libalRnB.so:system/lib/libalRnB.so \
     vendor/nubia/nx551j/proprietary/lib/libalRnBLV.so:system/lib/libalRnBLV.so \
     vendor/nubia/nx551j/proprietary/lib/libalSDE2.so:system/lib/libalSDE2.so \
@@ -158,8 +160,10 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/lib64/libBurstProcessJni.so:system/lib64/libBurstProcessJni.so \
     vendor/nubia/nx551j/proprietary/lib64/libIndependenceUtil.so:system/lib64/libIndependenceUtil.so \
     vendor/nubia/nx551j/proprietary/lib64/libNubiaImageAlgorithm.so:system/lib64/libNubiaImageAlgorithm.so \
+    vendor/nubia/nx551j/proprietary/lib64/libNubiaImageAlgorithmBSP.so:system/lib64/libNubiaImageAlgorithmBSP.so \
     vendor/nubia/nx551j/proprietary/lib64/libNubiaxmptoolkit.so:system/lib64/libNubiaxmptoolkit.so \
     vendor/nubia/nx551j/proprietary/lib64/libPrettyWaterMark.so:system/lib64/libPrettyWaterMark.so \
+    vendor/nubia/nx551j/proprietary/lib64/libalParseOTP.so:system/lib64/libalParseOTP.so \
     vendor/nubia/nx551j/proprietary/lib64/libalRnB.so:system/lib64/libalRnB.so \
     vendor/nubia/nx551j/proprietary/lib64/libalSDE2.so:system/lib64/libalSDE2.so \
     vendor/nubia/nx551j/proprietary/lib64/libalSPE.so:system/lib64/libalSPE.so \
