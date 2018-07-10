@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/nubia/nx551j/proprietary/bin/gx_fpd:system/bin/gx_fpd \
     vendor/nubia/nx551j/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/nubia/nx551j/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
     vendor/nubia/nx551j/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/nubia/nx551j/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/nubia/nx551j/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
