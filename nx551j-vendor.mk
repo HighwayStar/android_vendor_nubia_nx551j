@@ -109,7 +109,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/nubia/nx551j/proprietary/etc/permissions/qti-vzw-ims-internal.xml:system/etc/permissions/qti-vzw-ims-internal.xml \
     vendor/nubia/nx551j/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
-    vendor/nubia/nx551j/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/nubia/nx551j/proprietary/lib/libAlgorithm.so:system/lib/libAlgorithm.so \
     vendor/nubia/nx551j/proprietary/lib/libBigAperture.so:system/lib/libBigAperture.so \
     vendor/nubia/nx551j/proprietary/lib/libBuffer.so:system/lib/libBuffer.so \
@@ -137,10 +136,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/lib/libbuffer_manager.so:system/lib/libbuffer_manager.so \
     vendor/nubia/nx551j/proprietary/lib/libdngcreator.so:system/lib/libdngcreator.so \
     vendor/nubia/nx551j/proprietary/lib/libhistutil.so:system/lib/libhistutil.so \
-    vendor/nubia/nx551j/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/nubia/nx551j/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/nubia/nx551j/proprietary/lib/libmmcamera_nubiacustpro.so:system/lib/libmmcamera_nubiacustpro.so \
-    vendor/nubia/nx551j/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/nubia/nx551j/proprietary/lib/libmorpho_panorama_gp.so:system/lib/libmorpho_panorama_gp.so \
     vendor/nubia/nx551j/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/nubia/nx551j/proprietary/lib/libmulti_exposure.so:system/lib/libmulti_exposure.so \
@@ -150,7 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx551j/proprietary/lib/libnubiajpeg.so:system/lib/libnubiajpeg.so \
     vendor/nubia/nx551j/proprietary/lib/libpanoramahelper.so:system/lib/libpanoramahelper.so \
     vendor/nubia/nx551j/proprietary/lib/libproductinfo.so:system/lib/libproductinfo.so \
-    vendor/nubia/nx551j/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/nubia/nx551j/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/nubia/nx551j/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/nubia/nx551j/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
